@@ -1,0 +1,25 @@
+{
+	chapter.1A2B3C4D5E6F0001.chapter_subtitle: ["{cozycreate.quests.chapter.getting_started.subtitle}"]
+	chapter.1A2B3C4D5E6F0001.title: "{cozycreate.quests.chapter.getting_started.title}"
+	quest.1A2B3C4D5E6F0010.quest_desc: [
+		"{cozycreate.quests.gather_log.desc.1}"
+		""
+		"{cozycreate.quests.gather_log.desc.2}"
+	]
+	quest.1A2B3C4D5E6F0010.quest_subtitle: "{cozycreate.quests.gather_log.subtitle}"
+	quest.1A2B3C4D5E6F0020.quest_desc: [
+		"{cozycreate.quests.crafting_table.desc.1}"
+		""
+		"{cozycreate.quests.crafting_table.desc.2}"
+	]
+	quest.1A2B3C4D5E6F0020.quest_subtitle: "{cozycreate.quests.crafting_table.subtitle}"
+	quest.1A2B3C4D5E6F0050.quest_desc: [
+		"{cozycreate.quests.take_stock.desc.1}"
+		""
+		"{cozycreate.quests.take_stock.desc.2}"
+		""
+		"{cozycreate.quests.take_stock.desc.3}"
+	]
+	quest.1A2B3C4D5E6F0050.quest_subtitle: "{cozycreate.quests.take_stock.subtitle}"
+	task.1A2B3C4D5E6F0051.title: "{cozycreate.quests.take_stock.task.checkmark}"
+}

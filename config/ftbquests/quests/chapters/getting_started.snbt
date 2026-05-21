@@ -1,0 +1,122 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: ""
+	id: "1A2B3C4D5E6F0001"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1A2B3C4D5E6F0010"
+			rewards: [
+				{
+					id: "1A2B3C4D5E6F0012"
+					item: {
+						count: 1
+						id: "minecraft:leather_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "1A2B3C4D5E6F0013"
+					item: {
+						count: 1
+						id: "minecraft:leather_chestplate"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1A2B3C4D5E6F0014"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1A2B3C4D5E6F0015"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A2B3C4D5E6F0011"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "1A2B3C4D5E6F0020"
+			rewards: [
+				{
+					id: "1A2B3C4D5E6F0022"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:backpack"
+					}
+					type: "item"
+				}
+				{
+					id: "1A2B3C4D5E6F0023"
+					item: {
+						count: 1
+						id: "comforts:sleeping_bag_red"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A2B3C4D5E6F0021"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1A2B3C4D5E6F0010"
+				"1A2B3C4D5E6F0020"
+			]
+			id: "1A2B3C4D5E6F0050"
+			rewards: [
+				{
+					count: 10
+					id: "1A2B3C4D5E6F0052"
+					item: {
+						count: 1
+						id: "minecraft:baked_potato"
+					}
+					type: "item"
+				}
+				{
+					id: "1A2B3C4D5E6F0053"
+					item: {
+						components: {
+							"patchouli:book": "patchouli:guide"
+						}
+						count: 1
+						id: "patchouli:guide_book"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "1A2B3C4D5E6F0051"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}
