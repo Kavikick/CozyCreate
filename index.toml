@@ -1261,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stone-generators.pw.toml"
-hash = "03618ecf9f2978422867cc0d8ed1809882b841129cd1a0b54eb0e4060ae661ce"
+hash = "a26279ae96284ff62bea31120862d461cd9ac4108237d29d661284cb752b8699"
 metafile = true
 
 [[files]]
