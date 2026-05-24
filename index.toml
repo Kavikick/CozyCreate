@@ -606,7 +606,7 @@ hash = "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "0ab8ff2f48668728818e0085248bf89bd8dd370fe48d4b2bb75c98f3cd96171f"
+hash = "6e33254cb860fc55648ad81f36518a4ddd19fe6c0a4381a5bbac792a01033965"
 
 [[files]]
 file = "config/moonlight-common.toml"
@@ -755,6 +755,10 @@ hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
 [[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp-client/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "config/structureessentials.json"
@@ -1253,6 +1257,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
+metafile = true
+
+[[files]]
+file = "mods/create-stone-generators.pw.toml"
+hash = "03618ecf9f2978422867cc0d8ed1809882b841129cd1a0b54eb0e4060ae661ce"
 metafile = true
 
 [[files]]
