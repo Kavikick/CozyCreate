@@ -72,6 +72,9 @@ services:
 
     volumes:
       - ./data:/data
+      - ${CONFIG_DIR:-./data/config}:/data/config
+      - ${DEFAULT_CONFIGS_DIR:-./data/defaultconfigs}:/data/defaultconfigs
+      - ${KUBEJS_DIR:-./data/kubejs}:/data/kubejs
 
     deploy:
       resources:
