@@ -5,6 +5,10 @@ file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "0213a5ae50e774d634c0314ad75e3314f4a3e9d53f8470ee901bf76ea6648ad8"
+
+[[files]]
 file = "config/Dusty Decorations Config.toml"
 hash = "36eb12b560599ccaef1931db7583aaa77cbdc7f20e9ac2938b706e0fccc56620"
 
@@ -757,10 +761,6 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
-file = "config/spark/tmp-client/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
 file = "config/structureessentials.json"
 hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
@@ -1342,6 +1342,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "38cdcfcd897e2ac53bd0e0ca80b94309d9ae76a1dda4a5686cdf810bc014e701"
 metafile = true
 
 [[files]]
