@@ -2,6 +2,7 @@ client/
 scripts/
 backups/
 data/
+config/spark/tmp-client/
 
 # Root project files
 .env.example
