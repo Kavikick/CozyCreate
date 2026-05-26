@@ -1,10 +1,21 @@
 ## Notes
 rm CozyCreate.zip && zip CozyCreate.zip -r client/
 
-To get a server running 
+### To get a server running 
 - Clone
-- cp -r client/minecraft/mods/ data/cp client/minecraft/
+- cp -r client/minecraft/mods/ data/mods/
 - docker compose up
+
+### Setup need to do
+Clone .env.example and change `BRANCH` to a network file download location you control (use python webserver or something)
+That way the packwiz installer knows where to look for your changes.
+
+### To install a mod
+1. Use packwiz to add mods
+2. Modify the .toml to include it to either server/client/both 
+3. Run packwiz refresh to update packwiz's index.toml
+4. Run Validate.sh if you're installing something serverside to validate the server
+5. Spin up a minecraft instance and make a single player world to validate the client
 
 ## Understanding Version Numbers
 
