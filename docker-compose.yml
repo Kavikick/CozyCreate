@@ -26,13 +26,8 @@ services:
       MAX_MEMORY: ${MAX_MEMORY:-16G}
 
       # JVM tuning — tune via .env (see .env.example)
-      JVM_OPTS: "-Dfml.loginTimeout=600 -Dchunky.maxWorkingCount=200 -XX:SoftMaxHeapSize=${SOFT_MAX_HEAP:-14G}"
-      JVM_XX_OPTS: >-
-        -XX:+UnlockExperimentalVMOptions
-        -XX:+UseZGC
-        -XX:+ZGenerational
-        -XX:+AlwaysPreTouch
-        -XX:+DisableExplicitGC
+      JVM_OPTS: "-Dfml.loginTimeout=600"
+      USE_AIKAR_FLAGS: true
 
       ONLINE_MODE: "TRUE"
       ENFORCE_WHITELIST: "TRUE"
@@ -75,12 +70,6 @@ services:
       - ${CONFIG_DIR:-./data/config}:/data/config
       - ${DEFAULT_CONFIGS_DIR:-./data/defaultconfigs}:/data/defaultconfigs
       - ${KUBEJS_DIR:-./data/kubejs}:/data/kubejs
-
-    deploy:
-      resources:
-        limits:
-          memory: ${MEMORY_LIMIT:-16g}
-          cpus: "${CPU_LIMIT:-12}"
 
   backups:
     image: itzg/mc-backup:latest
