@@ -15,6 +15,7 @@ README.md
 validate.sh
 rcon-password.txt
 .env
+docker-compose.override*
 
 # Distribution Arifacts
 distribution/

@@ -14,7 +14,7 @@ services:
       TYPE: NEOFORGE
       VERSION: "1.21.1"
       NEOFORGE_VERSION: "21.1.228"
-      PACKWIZ_URL: ${BRANCH:-https://downloads.wesleys.world/CozyCreate/pack.toml}
+      PACKWIZ_URL:
 
       TZ: "America/Los_Angeles"
       EULA: "TRUE"
@@ -22,10 +22,9 @@ services:
       EXEC_DIRECTLY: "TRUE"
       STOP_DURATION: "240"
 
-      INIT_MEMORY: ${INIT_MEMORY:-4G}
-      MAX_MEMORY: ${MAX_MEMORY:-16G}
+      INIT_MEMORY: 
+      MAX_MEMORY: 
 
-      # JVM tuning — tune via .env (see .env.example)
       JVM_OPTS: "-Dfml.loginTimeout=600"
       USE_AIKAR_FLAGS: true
 
@@ -45,7 +44,7 @@ services:
       FORCE_GAMEMODE: "FALSE"
 
       SPAWN_PROTECTION: "0"
-      MOTD: "Dynamic updates PEOPLE"
+      MOTD:
       LOG_LEVEL: "INFO"
 
       VIEW_DISTANCE: "10"
@@ -67,9 +66,9 @@ services:
 
     volumes:
       - ./data:/data
-      - ${CONFIG_DIR:-./data/config}:/data/config
-      - ${DEFAULT_CONFIGS_DIR:-./data/defaultconfigs}:/data/defaultconfigs
-      - ${KUBEJS_DIR:-./data/kubejs}:/data/kubejs
+      - ./config:/data/config
+      - ./defaultconfigs:/data/defaultconfigs
+      - ./kubejs:/data/kubejs
 
   backups:
     image: itzg/mc-backup:latest
