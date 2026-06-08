@@ -1,5 +1,6 @@
 CozyCreate.zip
 .env
+docker-compose.override.yml
 rcon-password.txt
 data/
 backups/
