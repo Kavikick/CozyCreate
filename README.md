@@ -8,7 +8,7 @@
 ## Developing
 ### Environment setup
 1. install packwiz https://packwiz.infra.link/installation/
-2. copy and modify .env.example to .env, and docker-compose.override.example.yml to docker-compose.override.yml
+2. copy and modify .env.example to .env, and docker-compose.override.yml.example to docker-compose.override.yml
 3. Download the latest release from github and make a new instance
 4. Change the pre-launch command to point to `http://127.0.0.1:8080/pack.toml`
 5. Name it something memorable and verify it launches without errors
