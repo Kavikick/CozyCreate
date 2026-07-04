@@ -130,7 +130,7 @@ hash = "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "38d9b38e781a254df5820fb7c0f7e8e9f81cd90315525f5b7ecce2c0292267ad"
+hash = "a87f631c7e7853dd681b60b519d38a09d06ab1a5b53e1ae993e51f924b078f20"
 
 [[files]]
 file = "config/camerapture.server.json"
@@ -918,7 +918,7 @@ hash = "317715f1dc2f7435464bad8b2224911e4e01b9ccebf028352c47e7a4a5b2077b"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "ff3898e8988180bc12608015a609b49001191374c614caa80a467582e7c021c1"
+hash = "86feb6c7a0a3cbd87b15cb3d9e0125c940e0f72f3b9706d966ecb6e41e7e985d"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
