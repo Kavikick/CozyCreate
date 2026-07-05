@@ -41,5 +41,13 @@ ServerEvents.recipes(event => {
       }
     )
 
+    event.shapeless(
+      Item.of('minecraft:gilded_blackstone', 1), // arg 1: output
+      [
+        'minecraft:blackstone',
+        '2x minecraft:gold_ingot' // arg 2: the array of inputs
+      ]
+    )
+
   console.log('Hello! The recipe event has fired!')
 })
