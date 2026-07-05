@@ -130,7 +130,7 @@ hash = "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "a87f631c7e7853dd681b60b519d38a09d06ab1a5b53e1ae993e51f924b078f20"
+hash = "38d9b38e781a254df5820fb7c0f7e8e9f81cd90315525f5b7ecce2c0292267ad"
 
 [[files]]
 file = "config/camerapture.server.json"
@@ -177,6 +177,14 @@ file = "config/create-server.toml"
 hash = "f1a3edd31cdcf2b602b7d51d1fe8ba5e88d6403580ba382ba4cbfab1ecb3a365"
 
 [[files]]
+file = "config/create-stuff-additions-1.toml.bak"
+hash = "62932ecda1e4235a0ae69d15b4cef9dbc10b1debfa21b25f26a6e1b4b0356219"
+
+[[files]]
+file = "config/create-stuff-additions-2.toml.bak"
+hash = "62932ecda1e4235a0ae69d15b4cef9dbc10b1debfa21b25f26a6e1b4b0356219"
+
+[[files]]
 file = "config/create-stuff-additions.toml"
 hash = "62932ecda1e4235a0ae69d15b4cef9dbc10b1debfa21b25f26a6e1b4b0356219"
 
@@ -187,6 +195,14 @@ hash = "4e839d9ae6028a25a8b64995e70c230b219312389a5ce3f2a7050172ca779fde"
 [[files]]
 file = "config/create_central_kitchen-common.toml"
 hash = "9181ff82252d2e51065cc6cbfbe612bc597d1246146a579b0a6f38cc444fc4e9"
+
+[[files]]
+file = "config/create_connected-common-1.toml.bak"
+hash = "8beb8d8a0f1518f2dc80aa55b959483e44428c8037e1e9600bce65e9896859f2"
+
+[[files]]
+file = "config/create_connected-common-2.toml.bak"
+hash = "8beb8d8a0f1518f2dc80aa55b959483e44428c8037e1e9600bce65e9896859f2"
 
 [[files]]
 file = "config/create_connected-common.toml"
@@ -201,6 +217,14 @@ file = "config/create_deep_dark-common.toml"
 hash = "613452e58a23d20a098f59d5f3cfc023b399a8b73c57bb719aefef09c5a45a8d"
 
 [[files]]
+file = "config/create_dragons_plus-common-1.toml.bak"
+hash = "0f42cb765b27d07df5a406079dfee12f6154761e7a4fbfa5337644b530ca7853"
+
+[[files]]
+file = "config/create_dragons_plus-common-2.toml.bak"
+hash = "0f42cb765b27d07df5a406079dfee12f6154761e7a4fbfa5337644b530ca7853"
+
+[[files]]
 file = "config/create_dragons_plus-common.toml"
 hash = "0f42cb765b27d07df5a406079dfee12f6154761e7a4fbfa5337644b530ca7853"
 
@@ -213,12 +237,36 @@ file = "config/create_dragons_plus-simulated-extension-common.toml"
 hash = "9f68929cb7e3699215c0008b158d0425858b3ad065cba76ce1f4256369754982"
 
 [[files]]
+file = "config/create_dragons_plus-simulated-extension-server-1.toml.bak"
+hash = "5c306215eb2b3afd9d4418f76ad6886921241cfbc5dd6e8e1c74976e61c9b8d4"
+
+[[files]]
+file = "config/create_dragons_plus-simulated-extension-server-2.toml.bak"
+hash = "5c306215eb2b3afd9d4418f76ad6886921241cfbc5dd6e8e1c74976e61c9b8d4"
+
+[[files]]
 file = "config/create_dragons_plus-simulated-extension-server.toml"
 hash = "5c306215eb2b3afd9d4418f76ad6886921241cfbc5dd6e8e1c74976e61c9b8d4"
 
 [[files]]
+file = "config/create_enchantment_industry-server-1.toml.bak"
+hash = "3bb1295b60bcfee0d818b20490e67ec7e43f5c04fb397ebba0a6d0ae87d3b4c5"
+
+[[files]]
+file = "config/create_enchantment_industry-server-2.toml.bak"
+hash = "3bb1295b60bcfee0d818b20490e67ec7e43f5c04fb397ebba0a6d0ae87d3b4c5"
+
+[[files]]
 file = "config/create_enchantment_industry-server.toml"
 hash = "3bb1295b60bcfee0d818b20490e67ec7e43f5c04fb397ebba0a6d0ae87d3b4c5"
+
+[[files]]
+file = "config/create_fantasizing-server-1.toml.bak"
+hash = "a113b4c56c1274d5cdfedd23c66b8c1fa5765a047c3c12da39c4fbc53f480e5c"
+
+[[files]]
+file = "config/create_fantasizing-server-2.toml.bak"
+hash = "a113b4c56c1274d5cdfedd23c66b8c1fa5765a047c3c12da39c4fbc53f480e5c"
 
 [[files]]
 file = "config/create_fantasizing-server.toml"
@@ -233,6 +281,14 @@ file = "config/create_power_loader-server.toml"
 hash = "a5cb1367e97f6916c7b910f1d64de5ca72a5cbca0c14f12b9dd3f92ac97c7ef6"
 
 [[files]]
+file = "config/createcasing-common-1.toml.bak"
+hash = "b88501d9ab7ae911fe9f4eb6e223256626120158920533902de7c7f85b4f92fc"
+
+[[files]]
+file = "config/createcasing-common-2.toml.bak"
+hash = "b88501d9ab7ae911fe9f4eb6e223256626120158920533902de7c7f85b4f92fc"
+
+[[files]]
 file = "config/createcasing-common.toml"
 hash = "b88501d9ab7ae911fe9f4eb6e223256626120158920533902de7c7f85b4f92fc"
 
@@ -241,12 +297,28 @@ file = "config/createdieselgenerators-common.toml"
 hash = "be7551d5b0d7f454c5fb33539429e3a389343f80eb2af6de95bde442a13b9c92"
 
 [[files]]
+file = "config/createdieselgenerators-server-1.toml.bak"
+hash = "94caf8f83a8a9c5929602ab7c09dfe6ca973ae6d1bdbafe68019f44ce5ea9866"
+
+[[files]]
+file = "config/createdieselgenerators-server-2.toml.bak"
+hash = "94caf8f83a8a9c5929602ab7c09dfe6ca973ae6d1bdbafe68019f44ce5ea9866"
+
+[[files]]
 file = "config/createdieselgenerators-server.toml"
 hash = "94caf8f83a8a9c5929602ab7c09dfe6ca973ae6d1bdbafe68019f44ce5ea9866"
 
 [[files]]
 file = "config/createfastschematiccannon-common.toml"
 hash = "4650ed37670150a9b17bccae3f3268f02dcd387ca2acc098afc246aaa3972fbd"
+
+[[files]]
+file = "config/createfood-server-1.toml.bak"
+hash = "f7ae6bbb798b6a141ba690a0161db03d8127b53e93f2ac75b8134d7bed32411a"
+
+[[files]]
+file = "config/createfood-server-2.toml.bak"
+hash = "f7ae6bbb798b6a141ba690a0161db03d8127b53e93f2ac75b8134d7bed32411a"
 
 [[files]]
 file = "config/createfood-server.toml"
@@ -289,6 +361,10 @@ file = "config/cristellib/betterdungeons/structure_toggle_config.json5"
 hash = "cfbbfdc4e8298b509b638cc1dcf19db0ddad2998f2e51d608012a092db182019"
 
 [[files]]
+file = "config/cristellib/betterfortresses/structure_placement_config.json5"
+hash = "b2d4ec7658db9243e9e0ab26fbcdb6cc1a58601c9d0f6eb6278436046dda0c6f"
+
+[[files]]
 file = "config/cristellib/betterfortresses/structure_toggle_config.json5"
 hash = "476e7c1f8d373b4ade74bbe411df17e65cd23371df0331195d3343d2a1add770"
 
@@ -299,6 +375,10 @@ hash = "457f04949d15e9159468953610a61e54a79d43c9f4e506939a41cf6eba1389bb"
 [[files]]
 file = "config/cristellib/bettermineshafts/structure_toggle_config.json5"
 hash = "b1f120b276340d388ee444d9c1ab1974d2e1f30c6bbfe9dda6d81a280d3460cf"
+
+[[files]]
+file = "config/cristellib/betterstrongholds/structure_placement_config.json5"
+hash = "908300fb5617e2d7a3c656c25676a8c339d08adb9059b0ebcdb8f7f7735a70c0"
 
 [[files]]
 file = "config/cristellib/betterstrongholds/structure_toggle_config.json5"
@@ -341,6 +421,10 @@ file = "config/cristellib/friendsandfoes/structure_toggle_config.json5"
 hash = "48b5e9b95e160cfacf99855814dea44ea5cab49dd63cf15265011a9ae8ad994b"
 
 [[files]]
+file = "config/cristellib/idas/structure_placement_config.json5"
+hash = "956b78cd4554c9d71745a4b67281e6bd1f402f14deffe7ed7f9d3b455b2410ec"
+
+[[files]]
 file = "config/cristellib/idas/structure_toggle_config.json5"
 hash = "0627f6b57b0d264320415f031f11db48756ec074a6ec0c362f1ce714cc541808"
 
@@ -351,6 +435,10 @@ hash = "86d418f04cb5e14edb95568833f9ce421b50493a9445b0fa018c74475b48e701"
 [[files]]
 file = "config/cristellib/incendium/structure_toggle_config.json5"
 hash = "ce93df2b6e4d3a0ed2e456e83c08fc04bae832400e32e0639d957da5e46987b5"
+
+[[files]]
+file = "config/cristellib/integrated_villages/structure_placement_config.json5"
+hash = "b4ad8229e4403e479c553c114022ba16709f1212ccd15e11fcbbbbca6c50341b"
 
 [[files]]
 file = "config/cristellib/integrated_villages/structure_toggle_config.json5"
@@ -397,12 +485,20 @@ file = "config/cristellib/repurposed_structures/structure_toggle_config.json5"
 hash = "f3588cdfe77994e838692839567968f569312d77488d8e239ae2ab91c456a913"
 
 [[files]]
+file = "config/cristellib/supplementaries/structure_placement_config-had-error.json5"
+hash = "1175d80fb7e6cd18430c09e50b32c2a888202f2d51368741441dd8e0e1ea05b4"
+
+[[files]]
 file = "config/cristellib/supplementaries/structure_placement_config.json5"
 hash = "1175d80fb7e6cd18430c09e50b32c2a888202f2d51368741441dd8e0e1ea05b4"
 
 [[files]]
 file = "config/cristellib/supplementaries/structure_toggle_config.json5"
 hash = "1715fab1db080ca0bd264dce0cb2f8de8218d6e2989d085b0a3cb72b0f8c6225"
+
+[[files]]
+file = "config/cristellib/valhelsia_structures/structure_placement_config.json5"
+hash = "a08b6239a38825258ec6d1d0817188e04c06c885e07ce17bef3496e103eb3ed8"
 
 [[files]]
 file = "config/cristellib/valhelsia_structures/structure_toggle_config.json5"
@@ -429,6 +525,14 @@ file = "config/despawntweaks-common.toml"
 hash = "de7f8baae064448a11160d97e7fdbc8449ca979f1a7477ff9117527d0ced5c77"
 
 [[files]]
+file = "config/dndecor-server-1.toml.bak"
+hash = "f42059ff192ead465682536fe9013e662f21184ad8ae7a44b65daa5a2ddf44eb"
+
+[[files]]
+file = "config/dndecor-server-2.toml.bak"
+hash = "f42059ff192ead465682536fe9013e662f21184ad8ae7a44b65daa5a2ddf44eb"
+
+[[files]]
 file = "config/dndecor-server.toml"
 hash = "f42059ff192ead465682536fe9013e662f21184ad8ae7a44b65daa5a2ddf44eb"
 
@@ -439,6 +543,14 @@ hash = "1791cfc5dea19aca5846d933ea99d0f3d108f1dfe5eb38bdb1c5d04872deac78"
 [[files]]
 file = "config/doubledoors.json5"
 hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
+
+[[files]]
+file = "config/dragonlib-common-1.toml.bak"
+hash = "d6962a860c9639581cc84c550161166067cf031d22fc12fb4b22fcd5ce006ddd"
+
+[[files]]
+file = "config/dragonlib-common-2.toml.bak"
+hash = "d6962a860c9639581cc84c550161166067cf031d22fc12fb4b22fcd5ce006ddd"
 
 [[files]]
 file = "config/dragonlib-common.toml"
@@ -661,6 +773,14 @@ file = "config/quark-common-1.toml.bak"
 hash = "04d42ca796441fb3a860db6812ac4c2de150f3f18fdaac491d0aa5b32a39f4bf"
 
 [[files]]
+file = "config/quark-common-2.toml.bak"
+hash = "04d42ca796441fb3a860db6812ac4c2de150f3f18fdaac491d0aa5b32a39f4bf"
+
+[[files]]
+file = "config/quark-common-3.toml.bak"
+hash = "04d42ca796441fb3a860db6812ac4c2de150f3f18fdaac491d0aa5b32a39f4bf"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "0030f7bfe8ec16c7fb77ab955205d5c0eb5420933d067ec5d22199f5952d30e1"
 
@@ -677,8 +797,16 @@ file = "config/realisticbees.json5"
 hash = "e9b541ed4bb6dbfd47ed5a4ff222e574d40d9fa9344a4b2b9ee0c5112fd37f1b"
 
 [[files]]
+file = "config/regions_unexplored/client.json"
+hash = "219a24a03c06a9171e1b04e1bd361a9332905dd79d0b94a4c805b4358a41ee1d"
+
+[[files]]
 file = "config/regions_unexplored/client.toml"
 hash = "89a5a2302ca2d229e8799cc980a545dd9312e29eabee4f83a62ff9202631aa11"
+
+[[files]]
+file = "config/regions_unexplored/common.json"
+hash = "300dda462e31f6f1bcce0d67308e4939d1b461a03c8cc92ba805f7ac9d1cb66c"
 
 [[files]]
 file = "config/regions_unexplored/common.toml"
@@ -691,6 +819,14 @@ hash = "cb379be320181310435dcde6fbe227aeca41d015fba34b18e178f58b6f07caae"
 [[files]]
 file = "config/rightclickharvest.json5"
 hash = "4933acb18663de7cab3fb632f54b1931bbceac7cda0ef47ef34c5d56c210c63f"
+
+[[files]]
+file = "config/sable-common-1.toml.bak"
+hash = "9a1ba0617b4544eb8bded0995de05f26837fdc53215453ccc58012b468ff9dde"
+
+[[files]]
+file = "config/sable-common-2.toml.bak"
+hash = "9a1ba0617b4544eb8bded0995de05f26837fdc53215453ccc58012b468ff9dde"
 
 [[files]]
 file = "config/sable-common.toml"
@@ -711,6 +847,14 @@ hash = "ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc"
 [[files]]
 file = "config/simplehats.json5"
 hash = "7a40d316646f95ce8f14a53584eb0bfa603833d45fd63695d15e2c4d3045ecd1"
+
+[[files]]
+file = "config/simulated-server-1.toml.bak"
+hash = "4eb8a653258d8f7aa303fa77c34df800785b543116d5bc41ae613adec8000202"
+
+[[files]]
+file = "config/simulated-server-2.toml.bak"
+hash = "4eb8a653258d8f7aa303fa77c34df800785b543116d5bc41ae613adec8000202"
 
 [[files]]
 file = "config/simulated-server.toml"
@@ -739,6 +883,14 @@ hash = "2db8c6cb45261c6bd8a0d6c4cc96c9203818b25694bd5aad1e26fd1c0e4ae36a"
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server-1.toml.bak"
+hash = "16bd32ab93fa47ece9096630c10f6065c33df825383ec62d298a48aff8f5f307"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server-2.toml.bak"
+hash = "16bd32ab93fa47ece9096630c10f6065c33df825383ec62d298a48aff8f5f307"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
@@ -821,8 +973,16 @@ file = "config/upgrade_aquatic-common.toml"
 hash = "571e1b1491fa4935d9d0cde152491d82b02007df5e60cdc72c8b98a516cf126e"
 
 [[files]]
+file = "config/vanilla_structures/placement_structure_config-had-error.json5"
+hash = "1f069468e438ae66f65ee41732603c895741b063add626a9e56ef7d0040ac4e6"
+
+[[files]]
 file = "config/vanilla_structures/placement_structure_config.json5"
 hash = "1f069468e438ae66f65ee41732603c895741b063add626a9e56ef7d0040ac4e6"
+
+[[files]]
+file = "config/vanilla_structures/toggle_structure_config-had-error.json5"
+hash = "c4fb220488de3c1afc569f4b8a89d8e97f8b5504eeb59d9700b491f29718d2f9"
 
 [[files]]
 file = "config/vanilla_structures/toggle_structure_config.json5"
@@ -1106,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
@@ -1252,6 +1412,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-dynamic-lights.pw.toml"
+hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
 metafile = true
 
 [[files]]
@@ -1431,7 +1596,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
@@ -1556,7 +1721,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
@@ -1686,7 +1851,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2f14e94f4642986d2a5ac68cd623737e4b62b53517c9c1b164ce7b516ac3c671"
+hash = "018eeaa17d34a6010be48e946ad26973e24e125cfdf6f87cbd79f0cd7d5901ce"
 metafile = true
 
 [[files]]
@@ -1796,7 +1961,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+hash = "ae1a00455be0edadffea3e272b43a7d8080a501fc4fe0e3e8ff91bb81903d6e6"
 metafile = true
 
 [[files]]
@@ -1826,7 +1991,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
@@ -1865,13 +2030,8 @@ hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
 metafile = true
 
 [[files]]
@@ -1931,12 +2091,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "91ebbd7b58f32ec3cf848d203b70ef193675585d6b761de912afdd977ed5f84b"
+hash = "46280c9487633e3bd1dd7bb24ccc4076058b2602d7dc2906f96509527346cf24"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
+hash = "f4362615b463f2e68e4a9573720ef19d3c483e2c035981791b5834082a3e56be"
 metafile = true
 
 [[files]]
@@ -2163,3 +2323,7 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
 metafile = true
+
+[[files]]
+file = "updated_mods.txt"
+hash = "710213f6bb4c91aef1014d4a2481b1caf53b692b16a2e38f1aa66cb6975357ae"
